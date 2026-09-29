@@ -158,25 +158,6 @@ The project includes visualizations for:
 * Risk category fraud rates
 * Confusion matrix
 
-## Repository Contents
-
-```text
-transaction-risk-scoring/
-│
-├── README.md
-├── transaction_risk_scoring.ipynb
-├── requirements.txt
-├── sql/
-│   └── risk_analysis.sql
-├── images/
-│   ├── model_comparison.png
-│   ├── shap_importance.png
-│   ├── threshold_analysis.png
-│   └── risk_category.png
-│
-└── data/
-    └── README.md
-```
 
 ## Disclaimer
 
